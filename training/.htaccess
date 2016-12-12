@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+#RewriteRule ^([^\.]+)$ $1.php [L]
+RewriteRule ^haccp$ haccp.php [L]
+RewriteRule ^iso-22000$ iso22000.php [L]
+RewriteRule ^manajemen-halal$ manajemen-halal.php [L]
+RewriteRule ^pertanian-organik$ pertanian-organik.php [L]
+RewriteRule ^rspo-ispo$ rspo-ispo.php [L]
+
+
+Options All -Indexes
+</IfModule>

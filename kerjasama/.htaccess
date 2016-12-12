@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+#RewriteRule ^([^\.]+)$ $1.php [L]
+
+RewriteRule ^in-house-training$ in-house-training.php [L]
+RewriteRule ^konsultasi$ konsultasi.php [L]
+RewriteRule ^pendampingan-ukm$ pendampingan.php [L]
+Options All -Indexes
+</IfModule>
