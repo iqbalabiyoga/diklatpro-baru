@@ -29,7 +29,7 @@
                         <li> Dosen dan peneliti lembaga akademik dibidang keamanan pangan </li>
                     </ul>
                 </div>
-                <div class="col-md-6"><img src="images/HACCPilust.png"></div>
+                <div class="col-md-6"><img width=80% src="images/HACCPilust.png"></div>
             </div>
             <h4 style="color: #d43d34;">Tim Instruktur</h4>
             <ol>
